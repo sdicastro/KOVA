@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d6f89b-1640-4da6-9f18-3238f927b6fc" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WkEby7cgISun2btmVbFsl25ZJa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox_(MLGroup)/Reinforcement_Learning/Kalman/Article for ICML-20/code_icml_20/KOVA_icml_20/deep_kalman_project/kalman_algorithms" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <envs>
+          <env key="LD_LIBRARY_PATH" value="$USER_HOME$/.mujoco/mjpro150/bin/:/home/shirli/Documents/Git/mujoco-py:/usr/lib/x86_64-linux-gnu/libGLEW.so:/home/shirli/Documents/Git/baselines/" />
+          <env key="LD_PRELOAD" value="/usr/lib/x86_64-linux-gnu/libGLEW.so:/usr/lib/nvidia-384/libGL.so" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myEnvs">
+          <map>
+            <entry key="LD_LIBRARY_PATH" value="$USER_HOME$/.mujoco/mjpro150/bin/:/home/shirli/Documents/Git/mujoco-py:/usr/lib/x86_64-linux-gnu/libGLEW.so:/home/shirli/Documents/Git/baselines/" />
+            <entry key="LD_PRELOAD" value="/usr/lib/x86_64-linux-gnu/libGLEW.so:/usr/lib/nvidia-384/libGL.so" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d6f89b-1640-4da6-9f18-3238f927b6fc" name="Default" comment="" />
+      <created>1567682302314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567682302314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1581343882847">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1581343882847" />
+    <state x="486" y="174" key="SettingsEditor" timestamp="1581349020376">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="486" y="174" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1581349020376" />
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1580544889019">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1580544889019" />
+    <state x="639" y="269" width="797" height="538" key="find.popup" timestamp="1581349053207">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="639" y="269" width="797" height="538" key="find.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1581349053207" />
+  </component>
+</project>
